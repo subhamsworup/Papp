@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Portfolio App</string>
+    <string name="subham_sworup_mallick">Subham Mallick</string>
+    <string name="it_undergrad_at_vssut_burla">IT Undergrad at VSSUT Burla</string>
+    <string name="education">Education</string>
+    <string name="hobby">Hobbies</string>
+    <string name="lang">Languages</string>
+    <string name="mconnect"><u>Connect</u></string>
+</resources>
